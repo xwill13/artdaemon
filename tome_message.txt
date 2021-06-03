@@ -1,0 +1,11 @@
+Art Daemon has been successfully summoned into your server and will now keep track of the current
+challenge holder! Use the **+** character to summon me!
+
+__**Commands:**__
+**tome:** prints these instructions. Tagging ArtDaemon will also print these instructions
+**challenge:** selects the next challenge holder
+**setchallenge:** Saves the text of a challenge so that it can be referenced in the **remind** command
+**join:** opt in or out of biweekly art challenges
+**remind:** prints the current challenge holder
+**partners:** assigns each participating challenger a partner, for use during swap style challenges
+
