@@ -4,7 +4,7 @@ who is to provide the challenge. Allows you to modify the time increment between
 it can be referenced at will.
 
 __**Authors**__
-Primary Dev: Xzavier Williams
+Primary: Xzavier Williams
 Partner Picker: Daniel DeWaters
 
 __**Bot Permission Requirements**__
